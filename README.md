@@ -1,14 +1,15 @@
 # Semana omnistack, o que é:
 
-> Uma semana para você descobrir o poder da melhor stack do mercado e levar sua carreira de programador para o próximo nível.  *Fonte [RocketSeat](https://rocketseat.com.br/week-9/inscricao)*
+> Uma semana para você descobrir o poder da melhor stack do mercado e levar sua carreira de programador para o próximo nível.
 
-## Stack utilizada no projeto:
+## O que você vai aprender?
 
+ *Durante essa semana nós vamos construir juntos uma aplicação do zero utilizando :*
 > - *Back-end:* **NodeJS**.
 > -  *Banco de dados:* **MongoDB**.
-> - *Front-end:* **ReactJS(web) e React-native(mobile)**
+> - *Front-end:* **ReactJS(web) e React Native(mobile)**
 
-## Proposta do projeto:
+*para você descobrir na prática todas as vantagens dessa stack e porque essas tecnologias fazem tanto sentido juntas.*
 
->  * Apresentar o uso prático das tecnologias citadas acima, para a criação de uma pequena aplicação que tem o intuito de criar spots(locais de trabalhoe e ou coworking) nos quais os usuários podem fazer reservas para visitar ou para utilizar como localtrabalhar
-    
+
+*Fonte [RocketSeat](https://rocketseat.com.br/week-9/inscricao)*
